@@ -906,7 +906,6 @@
 	"ui_editor_properties_no_mip_maps": "Няма mip карти",  
 	"ui_editor_properties_noise": "Шум",
 	"ui_editor_properties_noise_amount": "Размер на шума",
-	"ui_editor_properties_noise_speed": "Скала на шума",
 	"ui_editor_properties_noise_smoothness" : "Гладкост на шума",
 	"ui_editor_properties_noise_speed" : "Скорост на шума",
 	"ui_editor_properties_none" : "Нито един",

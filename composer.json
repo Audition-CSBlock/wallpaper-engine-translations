@@ -1,0 +1,14 @@
+{
+    "name": "wpe/wpe-translations",
+    "description": "Wallpaper Engine localization files",
+    "type": "project",
+    "require": {
+        "php": ">=7.2",
+        "seld/jsonlint": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "WPE\\Localization\\": "scripts/"
+        }
+    }
+}

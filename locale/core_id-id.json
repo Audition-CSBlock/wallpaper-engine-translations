@@ -46,7 +46,6 @@
 	"core_updater_status_closing_processes_wait_quit_terminate_error" : "Gagal menutup {{program}}",
 	"core_updater_status_distro" : "Mengeluarkan file...",
  	"core_updater_status_distro_prepare_error" : "Kesalahan Boost ketika mencari sumber folder {{error}}",
- 	"core_updater_status_distro_copy_error" : "Kesalahan Boost ketika menyalin file",
 	"core_updater_status_distro_missing" : "Folder distribusi tidak ditemukan",
 	"core_updater_status_distro_file_path_error" : "Gagal merubah alamat file: {{error}}",
 	"core_updater_status_distro_file_directory" : "Membuat direktori: {{filepath}}",

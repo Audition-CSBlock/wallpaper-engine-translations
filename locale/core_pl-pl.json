@@ -51,7 +51,6 @@
 	"core_updater_status_closing_processes_wait_quit_terminate_error" : "Zamykanie {{program}} nie powiodło się",
 	"core_updater_status_distro" : "Rozpakowywanie plików...",
 	"core_updater_status_distro_prepare_error" : "Wystąpił błąd Boost podczas skanowania katalogu {{error}}",
-	"core_updater_status_distro_copy_error" : "Wystąpił błąd Boost podczas kopiowania plików",
 	"core_updater_status_distro_missing" : "Nie znaleziono katalogu dystrybucji",
 	"core_updater_status_distro_file_path_error" : "Konwertowanie ściezki pliku nie powiodło się: {{error}}",
 	"core_updater_status_distro_file_directory" : "Tworzenie katalogu: {{filepath}}",

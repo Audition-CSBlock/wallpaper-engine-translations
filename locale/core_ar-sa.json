@@ -46,7 +46,6 @@
 	"core_updater_status_closing_processes_wait_quit_terminate_error" : "فشل في اغلاق {{program}}",
 	"core_updater_status_distro" : "...استخراج الملفات",
 	"core_updater_status_distro_prepare_error" : "فشل التعزيز أثناء فحص مصدر المسار {{error}}",
-	"core_updater_status_distro_copy_error" : "خطأ في التعزيز اثناء نسخ الملفات",
 	"core_updater_status_distro_missing" : "مسار التوزيع مفقود",
 	"core_updater_status_distro_file_path_error" : "فشل في تحويل مسار الملف: {{error}}",
 	"core_updater_status_distro_file_directory" : "جاري انشاءالمسار: {{filepath}}",

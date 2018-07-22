@@ -276,7 +276,6 @@
 	"ui_editor_welcome_modal_new_application_wallpaper" : "Nové aplikáciové pozadie",
 	"ui_editor_welcome_modal_edit_recent_wallpaper" : "Upraviť nedávne pozadie:",
 	"ui_editor_welcome_modal_edit_recent_no_wallpapers" : "Žiadne nedávne pozadia",
-	"ui_editor_welcome_modal_tutorial" : "Tutorial: Začíname",
 	"ui_editor_welcome_modal_show_more" : "Ukázať viac...",
 	"ui_editor_welcome_modal_project_name" : "Meno projektu",
 	"ui_editor_welcome_modal_video_file" : "Video súbor",
@@ -830,7 +829,6 @@
 	"ui_browse_monitors_profile" : "Profil",
 
 	"ui_browse_monitors_split" : "Rozdeliť",
-	"ui_browse_monitors_remove_split" : "Odstrániť rozdelenie",
 	"ui_browse_monitors_split_monitor" : "Rozdeliť monitor: {{name}}",
 	"ui_browse_monitors_group" : "Zoskupiť",
 	"ui_browse_monitors_ungroup" : "Rozdeliť",

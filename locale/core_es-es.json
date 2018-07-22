@@ -46,7 +46,6 @@
 	"core_updater_status_closing_processes_wait_quit_terminate_error" : "Fallo al cerrar {{program}}",
 	"core_updater_status_distro" : "Desempaquetando archivos...",
 	"core_updater_status_distro_prepare_error" : "Error de incremento durante escaneo de directorio fuente {{error}}",
-	"core_updater_status_distro_copy_error" : "Error de incremento durante la copia de archivos",
 	"core_updater_status_distro_missing" : "Falta directorio de distribución",
 	"core_updater_status_distro_file_path_error" : "Fallo al convertir ruta de archivo: {{error}}",
 	"core_updater_status_distro_file_directory" : "Creando directorio: {{filepath}}",
