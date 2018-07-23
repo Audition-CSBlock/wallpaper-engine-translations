@@ -58,6 +58,7 @@
 	"ui_browse_details_btn_unsubscribe" : "Uitschrijven",
 	"ui_browse_details_btn_download" : "Download",
 	"ui_browse_details_btn_remove_from_history" : "Verwijder uit de geschiedenis",
+	"ui_browse_details_btn_report" : "Raporteer",
 	"ui_browse_details_properties" : "Eigenschappen",
 	"ui_browse_details_properties_reset" : "Reset",
 	"ui_browse_details_properties_nothing_imported" : "Er is niets geïmporteerd",
@@ -72,6 +73,7 @@
 	"ui_browse_footer_btn_store" : "Bekijk de Winkel",
 	"ui_browse_footer_btn_open_from_file" : "Open Bestand",
 	"ui_browse_footer_btn_open_from_url" : "Open URL",
+	"ui_browse_footer_btn_create_wallpaper" : "Maak Achtergrond",
 	
 	"ui_browse_monitors_choose_monitor" : "Kies scherm",
 	"ui_browse_monitors_layout" : "Indeling",
